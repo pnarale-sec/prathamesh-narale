@@ -23,7 +23,7 @@
 ### 🔐 Password Cracking & Protection Toolkit
 - Simulates brute-force attacks and password security  
 - Built using Python (`hashlib`)  
-- https://github.com/patya022/password-toolkit  
+-(https://github.com/pnarale-sec/password-toolkit.git)
 
 ---
 
